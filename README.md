@@ -8,6 +8,7 @@ Kerja bareng bangun website komunitas, coba bikin kolaborasi para perajin kode d
 1. Dony Purnama (https://github.com/donypurnama)
 2. Dagus Wijaya (https://github.com/daguswijaya)
 3. Ahmad Lukmanulhakim (https://github.com/lukmanulhakim)
+4. Rozul Imam (https://github.com/rozulimam)
 
 # What We Do
 
